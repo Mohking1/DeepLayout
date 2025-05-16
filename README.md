@@ -1,4 +1,4 @@
-Interior Plan Generation for Residential Buildings
+**Interior Plan Generation for Residential Buildings**
 
 1. Configuration
   Python 
